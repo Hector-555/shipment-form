@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shipment-form/static/css/main.6a011683.css",
+    "main.js": "/shipment-form/static/js/main.f4d14585.js",
+    "index.html": "/shipment-form/index.html",
+    "main.6a011683.css.map": "/shipment-form/static/css/main.6a011683.css.map",
+    "main.f4d14585.js.map": "/shipment-form/static/js/main.f4d14585.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a011683.css",
+    "static/js/main.f4d14585.js"
+  ]
+}
