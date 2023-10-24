@@ -1,0 +1,87 @@
+.input-container input {
+  font-weight: bold;
+  font-size: 2rem;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.form p {
+  margin: 0;
+  margin-bottom: 0.25rem;
+  color: red;
+  font-size: 1rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.package-sides-container {
+  display: flex;
+  margin-bottom: 60px;
+}
+
+.btn {
+  width: 200px;
+  margin: 0 auto;
+  background-color: cadetblue;
+}
+
+.btn:hover {
+  background-color: lightblue;
+}
+
+.sender-container,
+.addressee-wrapper {
+  width: 450px;
+}
+
+.package-wrapper {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.package-wrapper > div {
+  width: 450px;
+}
+
+.checkbox-wrapper {
+  margin-top: 18px;
+  margin-bottom: 18px;
+  vertical-align: baseline;
+}
+
+.checkbox-wrapper input {
+  cursor: pointer;
+  width: 17px;
+  height: 17px;
+}
+
+.checkbox-wrapper label {
+  cursor: pointer;
+  margin-left: 10px;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.list-wrapper {
+  font-size: 18px;
+  font-style: italic;
+  margin-right: 15px;
+}
+
+.type-of-send {
+  width: 190px;
+  height: 25px;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 15px;
+  cursor: pointer;
+}

@@ -1,0 +1,18 @@
+.input-container input {
+  font-weight: bold;
+  font-size: 2rem;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 0.25rem;
+  color: red;
+  font-size: 1rem;
+}

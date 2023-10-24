@@ -1,0 +1,21 @@
+.packages-list-wrapper {
+    padding: 1rem;
+    border: 2px solid green;
+    border-radius: 5px;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.packages-list-wrapper p {
+    margin: 0;
+    font-size: 12px;
+}
+
+.packages-list-wrapper h4 {
+    margin: 0;
+    font-size: 15px;
+}
+
+.package-item-wrapper {
+    width: 290px;
+}

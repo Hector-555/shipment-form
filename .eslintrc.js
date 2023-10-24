@@ -3,7 +3,7 @@ module.exports = {
     browser: true,
     es2021: true,
   },
-  extends: 'airbnb',
+  extends: ['airbnb', 'prettier'],
   overrides: [
     {
       env: {
@@ -22,5 +22,6 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
+  'react/prop-types': 0,
   },
 };
